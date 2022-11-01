@@ -1,13 +1,13 @@
 <p align="center">
-    <img src="https://telegra.ph/file/ba89874134b8b71478a0d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/75b17b1b35154d2fbd8da.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Yushino V3</h1>
+<h1 align="center">Maxxy-Botz</h1>
 
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
 
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283838186170) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281361281833) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285295374964) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285380166282) 
 ---------
 
 ## ```Heroku Buildpack```
@@ -25,8 +25,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Hyuura-Official/YushinoMdV3
-$ cd YushinoMdV2
+$ git clone https://github.com/Frezzy-XD/Maxxy-Botz
+$ cd Maxxy-Botz
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/Hyuura-Official/YushinoMdV3#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -68,8 +68,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Hyuura-Official/YushinoMdV3
-cd YushinoMdV3
+git clone https://github.com/Frezzy-XD/Maxxy-Botz
+cd Maxxy-Botz
 npm install
 npm update
 ```
@@ -84,8 +84,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/Hyuura-Official/YushinoMdV3
-cd YushinoMdV3
+git https://github.com/Frezzy-XD/Maxxy-Botz
+cd Maxxy-Botz
 npm install
 npm update
 ```
@@ -143,6 +143,6 @@ node .
 ⭝ 𝑭𝒂𝑱𝒂𝒓
 ⭝ 𝑨𝒓𝒖𝒍𝒍 𝑶𝒇𝒄
 ⭝ 𝒁𝒆𝒆𝒐𝒏𝒆 𝑶𝒇𝒄
-⭝ 𝑹𝒂𝒎𝒍𝑎𝑛
+⭝ Frazzy-XD
 ⭝ 𝑮𝒆𝒎𝒑𝒚𝑻𝒐𝒏
 ```
